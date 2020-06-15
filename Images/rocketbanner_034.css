@@ -1,0 +1,6 @@
+.progress:before{
+    content: ;
+    display: block;
+    width: 75%;
+    height: 3px;
+}

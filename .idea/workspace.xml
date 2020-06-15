@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07b437bd-9ff5-42c8-86f6-f73e2826936c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cMYiT9BFxkhgzsVb0ZHMBBlo2f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07b437bd-9ff5-42c8-86f6-f73e2826936c" name="Default Changelist" comment="" />
+      <created>1590340056602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590340056602</updated>
+      <workItem from="1590340058049" duration="3368000" />
+      <workItem from="1590354393797" duration="3000" />
+      <workItem from="1590398453507" duration="307000" />
+      <workItem from="1590398852884" duration="4492000" />
+      <workItem from="1590423936432" duration="63000" />
+      <workItem from="1590424002658" duration="1959000" />
+      <workItem from="1590572900343" duration="4741000" />
+      <workItem from="1590657437805" duration="363000" />
+      <workItem from="1590660793677" duration="3131000" />
+      <workItem from="1590682350416" duration="2374000" />
+      <workItem from="1590687279138" duration="853000" />
+      <workItem from="1590774350988" duration="3865000" />
+      <workItem from="1590778632897" duration="192000" />
+      <workItem from="1590781196777" duration="108000" />
+      <workItem from="1590854516345" duration="121000" />
+      <workItem from="1591028434843" duration="1635000" />
+      <workItem from="1591888163393" duration="6034000" />
+      <workItem from="1592234463819" duration="2451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591898083863">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="463" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.816@0.23.1440.816" timestamp="1591896919738" />
+    <state x="463" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.821@0.23.1440.821" timestamp="1591898083863" />
+    <state x="100" y="123" width="1240" height="614" key="DiffContextDialog" timestamp="1591897737344">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="100" y="123" width="1240" height="614" key="DiffContextDialog/0.23.1440.816@0.23.1440.816" timestamp="1591897737344" />
+    <state x="229" y="70" key="SettingsEditor" timestamp="1590399074402">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="229" y="70" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1590399074402" />
+    <state x="385" y="201" key="search.everywhere.popup" timestamp="1590340798960">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="385" y="196" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590340714552" />
+    <state x="385" y="201" key="search.everywhere.popup/0.23.1440.816@0.23.1440.816" timestamp="1590340798960" />
+  </component>
+</project>
